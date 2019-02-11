@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div>
-  <p>We will use <a href="https://nlp.stanford.edu/projects/glove/">50-dimensional GloVe vectors</a> to represent words.</p>
+  <p>We will use <a href="http://nlp.stanford.edu/data/glove.6B.zip">50-dimensional GloVe vectors</a> to represent words.</p>
 </div>
 <hr>
 <div>
