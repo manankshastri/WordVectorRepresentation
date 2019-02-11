@@ -45,7 +45,7 @@ The key idea behind equalization is to make sure that a particular pair of words
 </div>
 <hr>
 <h2>References:</h2>
-<p>The debiasing algorithm is from Bolukbasi et al., 2016, <a href = "https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf"> Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings</a></p>
+<p>The debiasing algorithm is from Bolukbasi et al., 2016, <a href = "https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf"> Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.</a></p>
 <p>The <a href="https://nlp.stanford.edu/projects/glove/">GloVe word embeddings</a> were due to Jeffrey Pennington, Richard Socher, and Christopher D. Manning.</p>
 
 
